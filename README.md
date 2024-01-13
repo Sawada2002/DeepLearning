@@ -1,2 +1,3 @@
-# 0deepLearning
-機械学習の勉強用
+# deepLearning
+個人的な機械学習の勉強用
+
